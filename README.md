@@ -30,6 +30,17 @@ El proyecto permite visualizar productos, agregarlos al carrito, generar pedidos
 - Eliminar productos
 - Control de stock
 - Seeder con productos de prueba
+
+## Arquitectura
+
+- Laravel 12
+- Patrón MVC
+- Base de datos MySQL
+- Docker
+- Blade Templates
+- Bootstrap Icons
+
+
 ## Instalación del proyecto
 
 Clonar el repositorio:
@@ -55,3 +66,10 @@ git clone https://github.com/david101015/UrbanShoes.git
 ### Dashboard administrativo
 
 ![Dashboard](docs/dashboard.png)
+
+## Autor
+
+Desarrollado por David Vásquez
+
+GitHub:
+https://github.com/david101015
