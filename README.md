@@ -30,13 +30,13 @@ El proyecto permite visualizar productos, agregarlos al carrito, generar pedidos
 - Eliminar productos
 - Control de stock
 - Seeder con productos de prueba
-
 ## Instalación del proyecto
 
 Clonar el repositorio:
 
 ```bash
 git clone https://github.com/david101015/UrbanShoes.git
+```
 
 ## Capturas del sistema
 
