@@ -37,3 +37,21 @@ Clonar el repositorio:
 
 ```bash
 git clone https://github.com/david101015/UrbanShoes.git
+
+## Capturas del sistema
+
+### Página de inicio
+
+![Inicio](docs/inicio.png)
+
+### Catálogo de productos
+
+![Catalogo](docs/catalogo.png)
+
+### Detalle de producto
+
+![Detalle](docs/detalle-producto.png)
+
+### Dashboard administrativo
+
+![Dashboard](docs/dashboard.png)
